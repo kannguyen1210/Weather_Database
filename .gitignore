@@ -130,3 +130,6 @@ dmypy.json
 
 # add config
 config.py
+
+# add DS Store file
+.DS_Store
